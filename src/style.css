@@ -1,0 +1,15 @@
+/* Add your styles in a separate CSS file or in the same file as your component */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
